@@ -1,3 +1,3 @@
-# R.J. Schodowski Front-End Web Developer Portfolio
+# R.J. Schodowski Front-End Web Developer Portfolio #
 
-This is the current portfolio of front-end web developer R.J. Schodowski.
+This is a CSS-based course project, which is a portfolio page. The project was build with CSS Flexbox and Grid layouts.
